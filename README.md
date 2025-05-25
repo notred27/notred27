@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 <!--
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notred27&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="192px"  width="500px"/>
+-->
+<!--
 **notred27/notred27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
