@@ -72,10 +72,10 @@ Designed novel CFA-based classifiers for AI-generated image detection. Fine-tune
 
 ---
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notred27&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
----
+--- -->
 
 *Open to new grad SWE roles — feel free to reach out.*
