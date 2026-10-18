@@ -1,6 +1,6 @@
 # Hi, I'm Michael Reidy 👋
 
-**Software Engineer & ML Researcher** · Boston, MA  
+**SWE & ML Researcher** · New York City, NY 
 B.S. Computer Science + Mathematics Minor · University of Rochester '25 · Cum Laude, GPA 3.87 · Phi Beta Kappa
 
 [![Email](https://img.shields.io/static/v1?logo=gmail&label=&message=mikereidy95@gmail.com&color=36465D&logoColor=AAA&style=flat-square)](mailto:mikereidy95@gmail.com)
