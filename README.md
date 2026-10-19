@@ -1,23 +1,16 @@
-# Hi, I'm Michael Reidy 👋
+# Hi, I'm Michael Reidy
 
-**SWE & ML Researcher** · New York City, NY 
-B.S. Computer Science + Mathematics Minor · University of Rochester '25 · Cum Laude, GPA 3.87 · Phi Beta Kappa
+**SWE @ Fora Travel** · NYC
 
-[![Email](https://img.shields.io/static/v1?logo=gmail&label=&message=mikereidy95@gmail.com&color=36465D&logoColor=AAA&style=flat-square)](mailto:mikereidy95@gmail.com)
-[![LinkedIn](https://img.shields.io/static/v1?logo=linkedin&label=&message=michael-p-reidy&color=36465D&logoColor=AAA&style=flat-square)](https://linkedin.com/in/michael-p-reidy)
-[![GitHub](https://img.shields.io/static/v1?logo=github&label=&message=notred27&color=36465D&logoColor=AAA&style=flat-square)](https://github.com/notred27)
+B.S. Computer Science + Mathematics Minor · U of R '25 · Phi Beta Kappa
 
----
+### About Me
 
-## About Me
-
-New grad SWE with a focus on full-stack development and applied ML. I spent most of college doing both AI image detection research (published at IEEE BigData 2023) and proving complexity results in computational social choice through an NSF REU. On the side I built tools, apps, and games with my friends, one of which has 200+ active users.
-
-Currently doing freelance web dev, and leading a small team building educational and narrative-driven games in Godot and Unreal Engine 5.
+Full-stack engineer with a background in applied ML. In college I researched AI-generated image detection (published at IEEE BigData 2023) and complexity results in computational social choice through an NSF REU. Outside of work I build apps and games with friends.
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 ![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=333&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square)
@@ -50,32 +43,23 @@ Currently doing freelance web dev, and leading a small team building educational
 ![ue5](https://img.shields.io/static/v1?logo=unrealengine&label=&message=UE5&color=36465D&logoColor=AAA&style=flat-square)
 
 ---
-## Projects
+### Projects
+
+**[Rifting Wrapped](https://github.com/notred27/RiftingWrapped)** · [riftingwrapped.com](https://www.riftingwrapped.com) — Full-stack League of Legends stats visualizer. 600+ active users, Riot-approved, with automated scraping pipelines via GitHub Actions. React, Flask, and MongoDB.
+
 
 **[URaBot](https://github.com/notred27/URaBOT)** — Chrome extension that detects bot-generated content on Twitter and Bluesky using a fine-tuned DeBERTa V3 model. 85% accuracy, 0.79 F1, trained on 37k+ tweets.
 
-**[Rifting Wrapped](https://github.com/notred27/RiftingWrapped)** · [riftingwrapped.com](https://www.riftingwrapped.com) — Full-stack League of Legends stats visualizer. 200+ active users, Riot-approved, with automated scraping pipelines via GitHub Actions. Built with React, Flask, and MongoDB.
-
 **[AI-Generated Image Classifiers](https://github.com/notred27/AI-Generated-Image-Classifiers)** — Novel CFA interpolation-based classifiers for detecting AI-generated images, achieving higher-than-human accuracy without deep learning. Published at IEEE BigData 2023.
 
-**[Under Pressure](https://github.com/YAGOTAGO/UnderPressure)** — 3D game built in Godot. Won 1st place and Best Overall at U of R's DandyHacks 2025.
+**[Under Pressure](https://github.com/YAGOTAGO/UnderPressure)** — 3D Godot game, 1st place and Best Overall at DandyHacks 2025.
 
 ---
 
-## Publication
+### Publication
 
 **Investigating the Effectiveness of Deep Learning and CFA Interpolation Based Classifiers on Identifying AIGC**  
 Michael Reidy, Henry Mallon, Jiebo Luo · IEEE BigData 2023  
 [![DOI](https://img.shields.io/static/v1?label=DOI&message=10.1109%2FBigData59044.2023.10386096&color=36465D&style=flat-square)](https://doi.org/10.1109/BigData59044.2023.10386096)
 
 Designed novel CFA-based classifiers for AI-generated image detection. Fine-tuned 3 CNNs achieving 81.3% accuracy on 2,800 images, outperforming human benchmarks.
-
----
-
-<!-- <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notred27&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
---- -->
-
-*Open to new grad SWE roles — feel free to reach out.*
